@@ -1,6 +1,6 @@
-cl\duoc\jv0101\caso04\notificaciones\model\Notificacion.class
-cl\duoc\jv0101\caso04\notificaciones\controller\NotificacionController.class
-cl\duoc\jv0101\caso04\notificaciones\config\OpenApiConfig.class
-cl\duoc\jv0101\caso04\notificaciones\repository\NotificacionRepository.class
-cl\duoc\jv0101\caso04\notificaciones\NotificacionApplication.class
-cl\duoc\jv0101\caso04\notificaciones\service\NotificacionService.class
+cl\novabank\notificaciones\NotificacionesApplication.class
+cl\novabank\notificaciones\controller\NotificacionController.class
+cl\novabank\notificaciones\model\Notificacion$NotificacionBuilder.class
+cl\novabank\notificaciones\service\NotificacionService.class
+cl\novabank\notificaciones\repository\NotificacionRepository.class
+cl\novabank\notificaciones\model\Notificacion.class
